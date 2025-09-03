@@ -10,3 +10,4 @@ description = "Headless Akamai & Kasada solver that runs without a browser, and 
 # avoid re-reading the config on every call
 # guard against empty input
 # avoid re-reading the config on every call
+# drop an unused branch
