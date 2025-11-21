@@ -20,3 +20,4 @@
 - docs: link the usage section
 - fix: link the usage section
 - chore: clarify the setup steps
+- chore: clarify the setup steps
